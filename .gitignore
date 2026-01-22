@@ -9,6 +9,9 @@ dist/
 build/
 *.spec
 
+# Virtual Environment
+venv/
+
 # IDEs
 .vscode/
 .idea/
@@ -17,6 +20,7 @@ build/
 src/config/user_config.json
 
 # Data & Reports
+data/
 *.csv
 *.html
 *.xlsx
