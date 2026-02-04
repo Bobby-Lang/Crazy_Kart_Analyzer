@@ -1,4 +1,4 @@
-# 🏎️ CrazyCarAnalyzer (赛车数据分析工具 Pro)
+# 🏎️ Crazy_Kart_Analyzer (赛车数据分析工具 Pro)
 
 专业的赛车游戏数据抓取与分析看板工具。
 
@@ -19,15 +19,15 @@
 ## 🚀 快速开始
 
 ### 方式一：下载可执行文件 (推荐)
-1. 前往 [Releases](../../releases) 页面下载最新的 `CrazyCarAnalyzer.exe`。
+1. 前往 [Releases](../../releases) 页面下载最新的 `Crazy_Kart_Analyzer.exe`。
 2. 双击运行即可，无需安装 Python 环境。
 
 ### 方式二：源码运行
 1. 安装 Python 3.10+。
 2. 克隆仓库:
    ```bash
-   git clone https://github.com/YourUsername/CrazyCarAnalyzer.git
-   cd CrazyCarAnalyzer
+   git clone https://github.com/YourUsername/Crazy_Kart_Analyzer.git
+   cd Crazy_Kart_Analyzer
    ```
 3. 安装依赖:
    ```bash
